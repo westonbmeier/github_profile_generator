@@ -21,3 +21,7 @@ It will show the following:
 and a link to your github page.
 
 ## Gif and screenshots ##
+
+![gif](https://github.com/westonbmeier/github_profile_generator/blob/master/assets/gif.gif)
+![node](assets/node.PNG)
+![pdf](assets/pdf.PNG)
