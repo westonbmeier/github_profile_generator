@@ -20,6 +20,10 @@ It will show the following:
 -Friends and followers
 and a link to your github page.
 
+## Deployed Application ##
+
+https://westonbmeier.github.io/github_profile_generator/
+
 ## Gif and screenshots ##
 
 ![gif](https://github.com/westonbmeier/github_profile_generator/blob/master/assets/gif.gif)
